@@ -1,0 +1,9 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build files
+build/
+dist/
+*.spec
